@@ -1,0 +1,55 @@
+{
+  "General": {
+    "WaitTime": 100,
+    "RequestTimeout": 10,
+    "MaxHits": 0,
+    "BotsDisplayMode": 1,
+    "EnableBotLog": false,
+    "SaveLastSource": false,
+    "WebhookEnabled": false,
+    "WebhookURL": ""
+  },
+  "Proxies": {
+    "ConcurrentUse": false,
+    "NeverBan": false,
+    "BanAfterGoodStatus": false,
+    "ShuffleOnStart": false,
+    "Reload": true,
+    "ReloadSource": 0,
+    "ReloadPath": "",
+    "ReloadType": 0,
+    "AlwaysGetClearance": false,
+    "GlobalBanKeys": [],
+    "GlobalRetryKeys": [],
+    "RemoteProxySources": []
+  },
+  "Captchas": {
+    "CurrentService": 0,
+    "AntiCapToken": "",
+    "ImageTypToken": "",
+    "DBCUser": "",
+    "DBCPass": "",
+    "TwoCapToken": "",
+    "RuCapToken": "",
+    "DCUser": "",
+    "DCPass": "",
+    "AZCapToken": "",
+    "SRUserId": "",
+    "SRToken": "",
+    "CIOToken": "",
+    "CDToken": "",
+    "OsherToken": "",
+    "YourToken": "",
+    "BypassBalanceCheck": false,
+    "Timeout": 120
+  },
+  "Selenium": {
+    "Browser": 0,
+    "Headless": false,
+    "FirefoxBinaryLocation": "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe",
+    "ChromeBinaryLocation": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "ChromeExtensions": [],
+    "DrawMouseMovement": true,
+    "PageLoadTimeout": 60
+  }
+}
